@@ -13,7 +13,7 @@ public class Runner {
         A objA1 = new A();
         A objA2 = new A();
         A objA3 = new A();
-        B objB1 = new B();
+        B objB1 = new B(2);
         objB1.add(objA1.getRef());
         objB1.add(objA2.getRef());
         objB1.add(objA2.getRef());
@@ -53,8 +53,13 @@ class B{
         size = 0;
     }
     public void add(U ref){
-        array[size] = ref;
-        size++;
+        try{
+            array[size] = ref;
+            size++;
+        }
+        catch(ArrayIndexOutOfBoundsException t){
+            System.out.println("ArrayIndexOutOfBoundsException");
+        }
     }
     public void del(int n){
         for(int i = n; i < size-1; i++){

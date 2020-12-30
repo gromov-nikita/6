@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="850b8242-e536-497a-9be4-c2c512482567" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1)Inner Classes/src/com/gromovlearn/Outer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gromovlearn/Runner2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1)Inner Classes/src/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Inner Classes/src/Outer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4)Inner Classes/out/production/4)Inner Classes/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/../4)Inner Classes/out/production/4)Inner Classes/Sequence$SequenceSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4)Inner Classes/out/production/4)Inner Classes/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../4)Inner Classes/out/production/4)Inner Classes/Sequence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -30,6 +36,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="21)Inner Classes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -44,9 +64,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1608906675778">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1608906675778" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1608906675776">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1608906675776" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1608906675776">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1608906675776" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1608906675778">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1608906675778" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1608898410913">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1608898410913" />
+    <state x="339" y="159" key="run.anything.popup" timestamp="1608906640530">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="159" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1608906640530" />
   </component>
 </project>

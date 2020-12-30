@@ -11,18 +11,3 @@ public class Runner implements InClass {
         MyClass.method(10);
     }
 }
-interface InClass{
-    public static void print(int i){
-        System.out.println(i);
-    }
-    class MyClass{
-        public static void method(int i){
-            print(i);
-            System.out.println("____________");
-        }
-        public void print2(){
-            System.out.println("MyClass");
-        }
-    }
-
-}
