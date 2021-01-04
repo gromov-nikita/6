@@ -9,7 +9,7 @@ public interface InClass{
             print(i);
             System.out.println("____________");
         }
-        public void print2(){
+        void print2(){
             System.out.println("MyClass");
         }
     }
