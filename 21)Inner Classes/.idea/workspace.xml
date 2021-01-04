@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="850b8242-e536-497a-9be4-c2c512482567" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../1)Inner Classes/src/com/gromovlearn/Outer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gromovlearn/Runner2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1)Inner Classes/src/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Inner Classes/src/Outer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4)Inner Classes/out/production/4)Inner Classes/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/../4)Inner Classes/out/production/4)Inner Classes/Sequence$SequenceSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4)Inner Classes/out/production/4)Inner Classes/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../4)Inner Classes/out/production/4)Inner Classes/Sequence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

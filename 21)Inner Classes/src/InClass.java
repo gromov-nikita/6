@@ -5,7 +5,7 @@ public interface InClass{
         obj.print2();
     }
     class MyClass{
-        public static void method(int i){
+        static void method(int i) {
             print(i);
             System.out.println("____________");
         }
