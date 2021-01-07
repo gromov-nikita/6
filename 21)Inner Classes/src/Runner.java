@@ -1,3 +1,5 @@
+import forInterface.InClass;
+
 /*
 Exercise 21: (2) Create an interface that contains a nested class that has a static method
 that calls the methods of your interface and displays the results. Implement your interface
